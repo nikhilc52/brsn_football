@@ -11,7 +11,7 @@ All the files for graphs used in the article "[The Search For the Best Play Of C
 ## Resources used
 
 * [cfbfastR](https://cfbfastr.sportsdataverse.org/index.html) - library used in R to obtain data
-* [collegefootballdata.com](collegefootballdata.com) - website used for historical data
+* [collegefootballdata.com](https://collegefootballdata.com) - website used for historical data
 
 ## Author
 
